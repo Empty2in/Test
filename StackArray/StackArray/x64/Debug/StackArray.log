@@ -1,0 +1,6 @@
+﻿  main.cpp
+  StackArray.cpp
+  WrongStackSize.cpp
+  Создание кода...
+C:\Users\Elina\source\repos\StackArray\StackArray\StackArray.h(100): warning C4172: возвращение адреса локальной или временной переменной
+  StackArray.vcxproj -> C:\Users\Elina\source\repos\StackArray\x64\Debug\StackArray.exe
