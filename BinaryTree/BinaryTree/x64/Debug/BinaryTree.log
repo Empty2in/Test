@@ -1,0 +1,5 @@
+﻿  BinarySearchTree.cpp
+  main.cpp
+  Создание кода...
+C:\Users\Elina\source\repos\BinaryTree\BinaryTree\BinarySearchTree.h(167): warning C4715: BinarySearchTree<int>::insertNode: значение возвращается не при всех путях выполнения
+  BinaryTree.vcxproj -> C:\Users\Elina\source\repos\BinaryTree\x64\Debug\BinaryTree.exe
